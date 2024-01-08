@@ -5,7 +5,7 @@
 
     <script>
         $(document).ready(function () {
-                window.location.href = 'https://pixellandstudios.github.io/ExploreOurSolarSystem.pdf';
+                window.location.replace("http://stackoverflow.com");
         });
     </script>
 </head>
