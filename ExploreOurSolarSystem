@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+
+    <script>
+        $(document).ready(function () {
+                window.location.href = 'https://pixellandstudios.github.io/ExploreOurSolarSystem.pdf';
+        });
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
